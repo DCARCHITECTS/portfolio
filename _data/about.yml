@@ -1,0 +1,19 @@
+items:
+  -- date: 2017-2018
+    heading: 10<sup>th</sup> Grade
+    academic: Scored 90%
+    image: 1.jpg
+  - date: 2019-2020
+    heading: 12<sup>th</sup> Grade, PUC
+    academic: Scored 80% in PCM with computer science as optional subject
+    image: 2.jpg
+  - date: 2020
+    heading: National Competition
+    achievement: Scored 1999 rank in NATA for B. Arch
+    image: 3.jpg
+  - date: 2020-2025
+    heading: B.Arch, Impact School of Architecture
+    experience: Archtectural survey and restorational project of Tumakkum Palace, Madurai<br> Participated in Art Installation at ACE-TECH at Bangalore-2024
+    achievement: Student President in Impact School of Architecture
+    image: 4.jpg
+last-item: Became<br>an<br>ARCHITECT
